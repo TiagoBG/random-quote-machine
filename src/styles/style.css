@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+
+.tarjeta {
+    height: 100vh;
+    background-color: #0984e3;
+}
+
+.box {
+    background-color: white;
+}
+
+.boton {
+    background-color: #0984e3;
+}
+
+#text,
+#author {
+    font-weight: bold;
+    color: #0984e3;
+    font-size: 18px;
+}
